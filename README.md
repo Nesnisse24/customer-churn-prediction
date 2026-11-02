@@ -36,9 +36,9 @@ Les trois modèles ont des performances équivalentes. J'ai retenu XGBoost pour 
 - **Prédiction** : probabilité de churn pour un client.
 - **Clients à risque** : liste triée, exportable en CSV.
 
-![Analyse](images/dashboard1.png)
-![Prédiction](images/dashboard2.png)
-![Clients à risque](images/dashboard3.png)
+![Analyse](image/dashboard1.png)
+![Prédiction](image/dashboard2.png)
+![Clients à risque](image/dashboard3.png)
 
 ## Lancer le projet en local
 ```bash
