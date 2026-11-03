@@ -1,6 +1,6 @@
 # Prédiction du churn client (Telco)
 
-Projet de data science : analyser et prédire le départ des clients d'un opérateur télécom, avec un dashboard interactif.
+Dans ce projet, je cherche à repérer les clients d'un opérateur télécom qui risquent de partir. J'ai analysé les données, comparé trois modèles et mis le meilleur dans un dashboard.
 
 **Dashboard en ligne : https://customer-churn-prediction-ljtqpfp8heqbjzvsmggjda.streamlit.app**
 
